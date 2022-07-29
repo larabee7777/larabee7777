@@ -1,2 +1,3 @@
-Software Engineer - Node.js, Javascript
+Full Stack Software Engineer
+
 lara.whybrow@gmail.com
